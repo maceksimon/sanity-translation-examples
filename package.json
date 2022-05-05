@@ -1,0 +1,19 @@
+{
+  "name": "sanity-example",
+  "version": "1.0.0",
+  "description": "Test of the Sanity backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maceksimon/sanity-translation-examples.git"
+  },
+  "author": "Simon Macek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maceksimon/sanity-translation-examples/issues"
+  },
+  "homepage": "https://github.com/maceksimon/sanity-translation-examples#readme"
+}
